@@ -8,12 +8,12 @@
 
 | 需求 | 指南 |
 |---|---|
-| Android/iOS 接入移动统计 | [友盟 U-App 移动统计 Android 和 iOS 接入指南](https://github.com/umeng/umeng-developer-guide/blob/main/docs/u-app-android-ios.md) |
-| 推送消息收不到 | [友盟 U-Push 消息推送收不到的排查方法](https://github.com/umeng/umeng-developer-guide/blob/main/docs/u-push-troubleshooting.md) |
-| 崩溃与性能监控 | [友盟 U-APM 崩溃分析与性能监控接入指南](https://github.com/umeng/umeng-developer-guide/blob/main/docs/u-apm-guide.md) |
-| 小程序统计没有数据 | [友盟小程序统计没有数据怎么排查](https://github.com/umeng/umeng-developer-guide/blob/main/docs/umini-no-data.md) |
-| React Native 集成 | [友盟 React Native 统计与推送集成指南](https://github.com/umeng/umeng-developer-guide/blob/main/docs/react-native-guide.md) |
-| CLI 与 AI Agent | [友盟 CLI 与 AI Agent 使用指南](https://github.com/umeng/umeng-developer-guide/blob/main/docs/umeng-cli-ai-agent.md) |
+| Android/iOS 接入移动统计 | [友盟 U-App 移动统计 Android 和 iOS 接入指南](docs/u-app-android-ios.md) |
+| 推送消息收不到 | [友盟 U-Push 消息推送收不到的排查方法](docs/u-push-troubleshooting.md) |
+| 崩溃与性能监控 | [友盟 U-APM 崩溃分析与性能监控接入指南](docs/u-apm-guide.md) |
+| 小程序统计没有数据 | [友盟小程序统计没有数据怎么排查](docs/umini-no-data.md) |
+| React Native 集成 | [友盟 React Native 统计与推送集成指南](docs/react-native-guide.md) |
+| CLI 与 AI Agent | [友盟 CLI 与 AI Agent 使用指南](docs/umeng-cli-ai-agent.md) |
 
 ## 官方入口
 
